@@ -1,6 +1,6 @@
 export class Empresa{
     constructor(
-        public id : string,
+        public id : number,
         public nombre : string,
         public sitioWeb : string,
         public tipo : string,
